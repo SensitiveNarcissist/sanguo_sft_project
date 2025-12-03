@@ -1,0 +1,71 @@
+# config/training_config.yaml
+
+# 模型配置
+model_config:
+  model_name: "Qwen/Qwen2-1.5B"
+  local_files_only: true
+  max_length: 512
+  torch_dtype: "float16"
+  trust_remote_code: true
+  use_fast_tokenizer: true
+
+# 训练配置 - 修复梯度问题
+training_config:
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 8
+
+#  learning_rate: 0.00005
+  learning_rate: 0.0003
+  warmup_ratio: 0.05
+  weight_decay: 0.01
+  adam_epsilon: 0.00000001
+  max_grad_norm: 0.5
+
+#  num_train_epochs: 5
+#  num_train_epochs: 25
+  num_train_epochs: 15
+  max_steps: -1
+
+  logging_steps: 10
+  eval_steps: 25
+  save_steps: 50
+  save_total_limit: 2
+  evaluation_strategy: "steps"
+  save_strategy: "steps"
+  load_best_model_at_end: true
+  metric_for_best_model: "eval_loss"
+  greater_is_better: false
+
+  fp16: true
+  dataloader_pin_memory: false
+  remove_unused_columns: true
+  report_to: []
+
+# 优化配置 - 修复梯度检查点问题
+optimization_config:
+  use_gradient_checkpointing: false  # 暂时禁用梯度检查点
+  use_8bit_optimizer: false
+  use_lora: true
+  lora_rank: 16
+  lora_alpha: 32
+  lora_dropout: 0.1
+  lora_target_modules: ["q_proj", "v_proj"]  # 先减少目标模块
+
+# 数据配置
+data_config:
+  train_test_split: 0.9
+  random_seed: 42
+  preprocessing_num_workers: 1
+  
+  prompt_template: "请根据《三国演义》回答以下问题：\n问题：{question}\n答案："
+  response_template: "{answer}"
+
+# 路径配置
+path_config:
+  output_dir: "./models/trained/sanguo_sft"
+  logging_dir: "./logs/sanguo_sft"
+  cache_dir: "./cache"
+  data_dir: "./data/processed"
+  best_model_dir: "./models/trained/sanguo_sft_best"
+  final_model_dir: "./models/trained/sanguo_sft_final"

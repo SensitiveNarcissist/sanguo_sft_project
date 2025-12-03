@@ -1,0 +1,2580 @@
+{
+  "characters": [
+    {
+      "name": "赵云",
+      "style_name": "子龙",
+      "title": "虎威将军",
+      "faction": "蜀汉",
+      "birth_death": "？-229",
+      "key_events": ["长坂坡救阿斗", "汉水之战", "随诸葛亮北伐"],
+      "relations": ["刘备", "诸葛亮", "刘禅"],
+      "description": "字子龙，蜀汉名将，骁勇善战，忠义侍主，处事谨慎。"
+    },
+    {
+      "name": "诸葛亮",
+      "style_name": "孔明",
+      "title": "蜀汉丞相",
+      "faction": "蜀汉",
+      "birth_death": "181-234",
+      "key_events": ["草船借箭", "空城计", "七擒孟获", "六出祁山", "火烧博望坡", "木牛流马", "出师表", "五丈原病逝"],
+      "relations": ["刘备", "刘禅", "关羽", "张飞", "赵云", "黄月英", "姜维"],
+      "description": "字孔明，号卧龙，三国时期蜀汉丞相，杰出的政治家、军事家、文学家、发明家。"
+    },
+    {
+      "name": "关羽",
+      "style_name": "云长",
+      "title": "汉寿亭侯",
+      "faction": "蜀汉",
+      "birth_death": "？-220",
+      "key_events": ["温酒斩华雄", "千里走单骑", "过五关斩六将", "水淹七军", "刮骨疗伤", "败走麦城", "华容道义释曹操"],
+      "relations": ["刘备", "张飞", "诸葛亮", "曹操", "孙权", "关平", "周仓"],
+      "description": "字云长，蜀汉名将，忠义双全，武功高强，被誉为“义绝”。"
+    },
+    {
+      "name": "张飞",
+      "style_name": "翼德",
+      "title": "车骑将军",
+      "faction": "蜀汉",
+      "birth_death": "？-221",
+      "key_events": ["长坂坡吓退曹军", "义释严颜", "被范疆张达刺杀", "大闹长坂桥"],
+      "relations": ["刘备", "关羽", "诸葛亮", "赵云"],
+      "description": "字翼德，蜀汉名将，勇猛粗暴，嫉恶如仇，声若巨雷。"
+    },
+    {
+      "name": "曹操",
+      "style_name": "孟德",
+      "title": "魏王",
+      "faction": "魏",
+      "birth_death": "155-220",
+      "key_events": ["官渡之战", "赤壁之战", "挟天子以令诸侯", "割须弃袍", "望梅止渴", "杀吕伯奢", "煮酒论英雄"],
+      "relations": ["曹丕", "曹植", "夏侯惇", "张辽", "许褚", "郭嘉", "荀彧", "关羽"],
+      "description": "字孟德，魏国奠基人，政治家、军事家、文学家，被称为“奸雄”。"
+    },
+    {
+      "name": "周瑜",
+      "style_name": "公瑾",
+      "title": "大都督",
+      "faction": "东吴",
+      "birth_death": "175-210",
+      "key_events": ["赤壁之战", "苦肉计", "群英会", "三气周瑜", "病逝巴丘"],
+      "relations": ["孙权", "鲁肃", "黄盖", "诸葛亮", "小乔"],
+      "description": "字公瑾，东吴名将，才华横溢，精通音律，但气量狭小。"
+    },
+    {
+      "name": "吕布",
+      "style_name": "奉先",
+      "title": "温侯",
+      "faction": "独立",
+      "birth_death": "？-199",
+      "key_events": ["三英战吕布", "辕门射戟", "白门楼殒命", "刺杀董卓"],
+      "relations": ["董卓", "貂蝉", "刘备", "曹操", "张辽"],
+      "description": "字奉先，以勇武闻名，但反复无常，被称为“三姓家奴”。"
+    },
+    {
+      "name": "刘备",
+      "style_name": "玄德",
+      "title": "蜀汉皇帝",
+      "faction": "蜀汉",
+      "birth_death": "161-223",
+      "key_events": ["桃园结义", "三顾茅庐", "携民渡江", "白帝城托孤", "夷陵之战", "跃马檀溪"],
+      "relations": ["关羽", "张飞", "诸葛亮", "赵云", "刘禅", "孙尚香", "徐庶", "庞统"],
+      "description": "字玄德，蜀汉开国皇帝，以仁德著称，亲贤爱士，善待人才。"
+    },
+    {
+      "name": "孙权",
+      "style_name": "仲谋",
+      "title": "吴大帝",
+      "faction": "东吴",
+      "birth_death": "182-252",
+      "key_events": ["赤壁之战", "建立东吴", "派船队寻夷州", "合肥之战"],
+      "relations": ["孙策", "周瑜", "鲁肃", "陆逊", "张昭", "大乔"],
+      "description": "字仲谋，东吴开国皇帝，智勇兼备，知人善任。"
+    },
+    {
+      "name": "黄忠",
+      "style_name": "汉升",
+      "title": "后将军",
+      "faction": "蜀汉",
+      "birth_death": "？-220",
+      "key_events": ["定军山斩夏侯渊", "随刘备入川"],
+      "relations": ["刘备", "诸葛亮", "关羽"],
+      "description": "字汉升，蜀汉名将，老当益壮，箭术高超。"
+    },
+    {
+      "name": "马超",
+      "style_name": "孟起",
+      "title": "骠骑将军",
+      "faction": "蜀汉",
+      "birth_death": "176-222",
+      "key_events": ["渭水之战", "割须弃袍", "投奔刘备"],
+      "relations": ["刘备", "诸葛亮", "曹操", "韩遂"],
+      "description": "字孟起，蜀汉名将，勇猛异常，人称“锦马超”。"
+    },
+    {
+      "name": "司马懿",
+      "style_name": "仲达",
+      "title": "晋宣帝",
+      "faction": "魏",
+      "birth_death": "179-251",
+      "key_events": ["高平陵之变", "抵御诸葛亮北伐", "诈病夺权"],
+      "relations": ["曹操", "曹丕", "诸葛亮", "司马师", "司马昭"],
+      "description": "字仲达，魏国权臣，晋朝奠基人，善于谋略，阴险奸诈。"
+    },
+    {
+      "name": "邓艾",
+      "style_name": "士载",
+      "title": "征西将军",
+      "faction": "魏",
+      "birth_death": "197-264",
+      "key_events": ["奇袭成都", "灭亡蜀汉"],
+      "relations": ["钟会", "姜维", "刘禅"],
+      "description": "字士载，魏国名将，擅长军事，后因功高被忌。"
+    },
+    {
+      "name": "陶谦",
+      "style_name": "恭祖",
+      "title": "徐州牧",
+      "faction": "汉",
+      "birth_death": "132-194",
+      "key_events": ["三让徐州"],
+      "relations": ["刘备", "曹操"],
+      "description": "字恭祖，汉末群雄之一，以仁厚著称。"
+    },
+    {
+      "name": "张松",
+      "style_name": "永年",
+      "title": "别驾",
+      "faction": "益州",
+      "birth_death": "？-212",
+      "key_events": ["献西川图"],
+      "relations": ["刘备", "刘璋"],
+      "description": "字永年，益州官员，记忆力超群，助刘备取益州。"
+    },
+    {
+      "name": "孟获",
+      "style_name": "无",
+      "title": "南蛮王",
+      "faction": "南蛮",
+      "birth_death": "？-？",
+      "key_events": ["七擒七纵"],
+      "relations": ["诸葛亮"],
+      "description": "南蛮首领，被诸葛亮七擒七纵后归顺。"
+    },
+    {
+      "name": "黄盖",
+      "style_name": "公覆",
+      "title": "武陵太守",
+      "faction": "东吴",
+      "birth_death": "？-？",
+      "key_events": ["苦肉计", "火攻赤壁"],
+      "relations": ["周瑜", "孙权"],
+      "description": "字公覆，东吴老将，忠诚勇猛，献苦肉计助赤壁之战。"
+    },
+    {
+      "name": "鲁肃",
+      "style_name": "子敬",
+      "title": "大都督",
+      "faction": "东吴",
+      "birth_death": "172-217",
+      "key_events": ["促成孙刘联盟", "主持江东军政"],
+      "relations": ["孙权", "周瑜", "诸葛亮"],
+      "description": "字子敬，东吴谋士，胸怀大略，力主联刘抗曹。"
+    },
+    {
+      "name": "陆逊",
+      "style_name": "伯言",
+      "title": "大都督",
+      "faction": "东吴",
+      "birth_death": "183-245",
+      "key_events": ["夷陵之战", "火烧连营"],
+      "relations": ["孙权", "吕蒙"],
+      "description": "字伯言，东吴名将，智勇双全，以火攻击败刘备。"
+    },
+    {
+      "name": "贾诩",
+      "style_name": "文和",
+      "title": "太尉",
+      "faction": "魏",
+      "birth_death": "147-223",
+      "key_events": ["献计张绣", "辅佐曹丕"],
+      "relations": ["曹操", "曹丕", "张绣"],
+      "description": "字文和，魏国谋士，深谋远虑，算无遗策。"
+    },
+    {
+      "name": "郭嘉",
+      "style_name": "奉孝",
+      "title": "军师祭酒",
+      "faction": "魏",
+      "birth_death": "170-207",
+      "key_events": ["十胜十败论", "计擒吕布"],
+      "relations": ["曹操", "荀彧"],
+      "description": "字奉孝，魏国谋士，神机妙算，曹操甚为倚重。"
+    },
+    {
+      "name": "王朗",
+      "style_name": "景兴",
+      "title": "司徒",
+      "faction": "魏",
+      "birth_death": "？-228",
+      "key_events": ["被诸葛亮骂死"],
+      "relations": ["曹操", "曹丕"],
+      "description": "字景兴，魏国官员，经学家，在阵前被诸葛亮斥责而亡。"
+    },
+    {
+      "name": "华佗",
+      "style_name": "元化",
+      "title": "神医",
+      "faction": "无",
+      "birth_death": "？-208",
+      "key_events": ["刮骨疗伤", "为曹操治病"],
+      "relations": ["关羽", "曹操"],
+      "description": "字元化，东汉名医，发明麻沸散，因触怒曹操被杀。"
+    },
+    {
+      "name": "刘禅",
+      "style_name": "公嗣",
+      "title": "蜀汉后主",
+      "faction": "蜀汉",
+      "birth_death": "207-271",
+      "key_events": ["继位蜀汉", "投降邓艾", "乐不思蜀"],
+      "relations": ["刘备", "诸葛亮", "赵云"],
+      "description": "字公嗣，刘备之子，蜀汉后主，庸碌无能，后降魏。"
+    },
+    {
+      "name": "姜维",
+      "style_name": "伯约",
+      "title": "大将军",
+      "faction": "蜀汉",
+      "birth_death": "202-264",
+      "key_events": ["九伐中原", "继承诸葛亮遗志", "诈降计"],
+      "relations": ["诸葛亮", "刘禅", "邓艾"],
+      "description": "字伯约，蜀汉名将，诸葛亮传人，忠诚勇猛，后战死。"
+    },
+    {
+      "name": "夏侯惇",
+      "style_name": "元让",
+      "title": "大将军",
+      "faction": "魏",
+      "birth_death": "？-220",
+      "key_events": ["拔矢啖睛", "随曹操征讨"],
+      "relations": ["曹操", "夏侯渊"],
+      "description": "字元让，魏国名将，勇猛刚烈，忠心耿耿。"
+    },
+    {
+      "name": "夏侯渊",
+      "style_name": "妙才",
+      "title": "征西将军",
+      "faction": "魏",
+      "birth_death": "？-219",
+      "key_events": ["定军山被黄忠斩"],
+      "relations": ["曹操", "夏侯惇"],
+      "description": "字妙才，魏国名将，擅长奔袭，但轻敌阵亡。"
+    },
+    {
+      "name": "张辽",
+      "style_name": "文远",
+      "title": "前将军",
+      "faction": "魏",
+      "birth_death": "169-222",
+      "key_events": ["合肥之战", "威震逍遥津"],
+      "relations": ["曹操", "吕布", "孙权"],
+      "description": "字文远，魏国名将，勇猛善战，令江东闻风丧胆。"
+    },
+    {
+      "name": "许褚",
+      "style_name": "仲康",
+      "title": "武卫将军",
+      "faction": "魏",
+      "birth_death": "？-？",
+      "key_events": ["裸衣斗马超", "护卫曹操"],
+      "relations": ["曹操", "典韦"],
+      "description": "字仲康，魏国猛将，力大无穷，忠诚护主。"
+    },
+    {
+      "name": "典韦",
+      "style_name": "无",
+      "title": "校尉",
+      "faction": "魏",
+      "birth_death": "？-197",
+      "key_events": ["宛城护主", "力战而死"],
+      "relations": ["曹操"],
+      "description": "魏国猛将，勇武过人，为保护曹操战死。"
+    },
+    {
+      "name": "甘宁",
+      "style_name": "兴霸",
+      "title": "折冲将军",
+      "faction": "东吴",
+      "birth_death": "？-220",
+      "key_events": ["百骑劫魏营", "合肥之战"],
+      "relations": ["孙权", "凌统"],
+      "description": "字兴霸，东吴名将，勇猛果断，原为江贼。"
+    },
+    {
+      "name": "吕蒙",
+      "style_name": "子明",
+      "title": "大都督",
+      "faction": "东吴",
+      "birth_death": "178-220",
+      "key_events": ["白衣渡江", "偷袭荆州"],
+      "relations": ["孙权", "关羽", "陆逊"],
+      "description": "字子明，东吴名将，励志好学，计取荆州。"
+    },
+    {
+      "name": "袁绍",
+      "style_name": "本初",
+      "title": "大将军",
+      "faction": "河北",
+      "birth_death": "？-202",
+      "key_events": ["官渡之战", "雄踞河北"],
+      "relations": ["袁术", "曹操", "许攸"],
+      "description": "字本初，汉末群雄，名门望族，但优柔寡断。"
+    },
+    {
+      "name": "袁术",
+      "style_name": "公路",
+      "title": "仲家皇帝",
+      "faction": "仲家",
+      "birth_death": "？-199",
+      "key_events": ["称帝", "众叛亲离"],
+      "relations": ["袁绍", "孙策"],
+      "description": "字公路，袁绍弟，妄自称帝，后兵败身亡。"
+    },
+    {
+      "name": "刘表",
+      "style_name": "景升",
+      "title": "荆州牧",
+      "faction": "荆州",
+      "birth_death": "142-208",
+      "key_events": ["统治荆州", "优柔寡断"],
+      "relations": ["刘备", "蔡瑁"],
+      "description": "字景升，汉末群雄，占据荆州，但缺乏远见。"
+    },
+    {
+      "name": "刘璋",
+      "style_name": "季玉",
+      "title": "益州牧",
+      "faction": "益州",
+      "birth_death": "？-219",
+      "key_events": ["迎刘备入川", "投降刘备"],
+      "relations": ["刘备", "张松"],
+      "description": "字季玉，益州牧，暗弱无能，后让位刘备。"
+    },
+    {
+      "name": "孔融",
+      "style_name": "文举",
+      "title": "北海相",
+      "faction": "汉",
+      "birth_death": "153-208",
+      "key_events": ["让梨", "被曹操所杀"],
+      "relations": ["曹操", "祢衡"],
+      "description": "字文举，孔子后裔，文学家，因触怒曹操被杀。"
+    },
+    {
+      "name": "祢衡",
+      "style_name": "正平",
+      "title": "无",
+      "faction": "汉",
+      "birth_death": "173-198",
+      "key_events": ["击鼓骂曹"],
+      "relations": ["曹操", "孔融"],
+      "description": "字正平，名士，才华横溢，但狂傲不羁，被黄祖所杀。"
+    },
+    {
+      "name": "孙策",
+      "style_name": "伯符",
+      "title": "讨逆将军",
+      "faction": "东吴",
+      "birth_death": "175-200",
+      "key_events": ["平定江东", "遇刺身亡"],
+      "relations": ["孙权", "周瑜", "大乔"],
+      "description": "字伯符，孙权兄，勇猛果敢，奠定东吴基业。"
+    },
+    {
+      "name": "孙坚",
+      "style_name": "文台",
+      "title": "破虏将军",
+      "faction": "东吴",
+      "birth_death": "155-191",
+      "key_events": ["讨伐董卓", "得玉玺"],
+      "relations": ["孙策", "孙权"],
+      "description": "字文台，孙策、孙权之父，勇猛刚烈，战死沙场。"
+    },
+    {
+      "name": "董卓",
+      "style_name": "仲颖",
+      "title": "太师",
+      "faction": "凉州",
+      "birth_death": "？-192",
+      "key_events": ["废立皇帝", "焚烧洛阳", "被吕布所杀"],
+      "relations": ["吕布", "王允", "貂蝉"],
+      "description": "字仲颖，汉末权臣，残暴专权，后遭诛杀。"
+    },
+    {
+      "name": "李傕",
+      "style_name": "稚然",
+      "title": "车骑将军",
+      "faction": "凉州",
+      "birth_death": "？-198",
+      "key_events": ["祸乱长安"],
+      "relations": ["郭汜", "董卓"],
+      "description": "字稚然，董卓部将，后作乱关中，兵败身亡。"
+    },
+    {
+      "name": "郭汜",
+      "style_name": "无",
+      "title": "后将军",
+      "faction": "凉州",
+      "birth_death": "？-197",
+      "key_events": ["与李傕相争"],
+      "relations": ["李傕", "董卓"],
+      "description": "董卓部将，与李傕共同作乱，后内斗而死。"
+    },
+    {
+      "name": "王允",
+      "style_name": "子师",
+      "title": "司徒",
+      "faction": "汉",
+      "birth_death": "137-192",
+      "key_events": ["连环计", "诛杀董卓"],
+      "relations": ["貂蝉", "吕布", "董卓"],
+      "description": "字子师，汉朝忠臣，设计除掉董卓，后被害。"
+    },
+    {
+      "name": "貂蝉",
+      "style_name": "无",
+      "title": "无",
+      "faction": "汉",
+      "birth_death": "？-？",
+      "key_events": ["连环计"],
+      "relations": ["王允", "吕布", "董卓"],
+      "description": "王允义女，色艺双绝，参与连环计，离间董卓、吕布。"
+    },
+    {
+      "name": "蔡瑁",
+      "style_name": "德珪",
+      "title": "水军都督",
+      "faction": "荆州",
+      "birth_death": "？-208",
+      "key_events": ["陷害刘备", "投降曹操"],
+      "relations": ["刘表", "曹操"],
+      "description": "字德珪，刘表妻弟，排斥刘备，后降曹。"
+    },
+    {
+      "name": "张任",
+      "style_name": "无",
+      "title": "益州将领",
+      "faction": "益州",
+      "birth_death": "？-213",
+      "key_events": ["抵御刘备", "被擒杀"],
+      "relations": ["刘璋", "刘备"],
+      "description": "益州将领，忠诚勇猛，抵抗刘备时战死。"
+    },
+    {
+      "name": "严颜",
+      "style_name": "无",
+      "title": "巴郡太守",
+      "faction": "益州",
+      "birth_death": "？-？",
+      "key_events": ["被张飞义释"],
+      "relations": ["张飞", "刘璋"],
+      "description": "巴郡老将，宁死不降，后归顺刘备。"
+    },
+    {
+      "name": "法正",
+      "style_name": "孝直",
+      "title": "尚书令",
+      "faction": "蜀汉",
+      "birth_death": "176-220",
+      "key_events": ["献计取益州", "定军山之战"],
+      "relations": ["刘备", "诸葛亮"],
+      "description": "字孝直，蜀汉谋士，奇谋妙策，深得刘备信任。"
+    },
+    {
+      "name": "庞统",
+      "style_name": "士元",
+      "title": "军师中郎将",
+      "faction": "蜀汉",
+      "birth_death": "179-214",
+      "key_events": ["献连环计", "落凤坡遇伏"],
+      "relations": ["刘备", "诸葛亮", "周瑜"],
+      "description": "字士元，号凤雏，蜀汉谋士，才华出众，早逝。"
+    },
+    {
+      "name": "徐庶",
+      "style_name": "元直",
+      "title": "军师",
+      "faction": "蜀汉",
+      "birth_death": "？-？",
+      "key_events": ["推荐诸葛亮", "进曹营一言不发"],
+      "relations": ["刘备", "诸葛亮", "曹操"],
+      "description": "字元直，蜀汉谋士，孝子，后归曹但不为设谋。"
+    },
+    {
+      "name": "马谡",
+      "style_name": "幼常",
+      "title": "参军",
+      "faction": "蜀汉",
+      "birth_death": "190-228",
+      "key_events": ["失街亭", "被诸葛亮处斩"],
+      "relations": ["诸葛亮", "马良"],
+      "description": "字幼常，蜀汉将领，纸上谈兵，导致街亭失守。"
+    },
+    {
+      "name": "魏延",
+      "style_name": "文长",
+      "title": "征西大将军",
+      "faction": "蜀汉",
+      "birth_death": "？-234",
+      "key_events": ["子午谷奇谋", "被马岱所杀"],
+      "relations": ["刘备", "诸葛亮", "杨仪"],
+      "description": "字文长，蜀汉名将，勇猛过人，但骄矜后反叛。"
+    },
+    {
+      "name": "杨仪",
+      "style_name": "威公",
+      "title": "长史",
+      "faction": "蜀汉",
+      "birth_death": "？-235",
+      "key_events": ["与魏延不睦", "被废黜"],
+      "relations": ["诸葛亮", "魏延"],
+      "description": "字威公，蜀汉官员，才干出众，但心胸狭窄。"
+    },
+    {
+      "name": "费祎",
+      "style_name": "文伟",
+      "title": "大将军",
+      "faction": "蜀汉",
+      "birth_death": "？-253",
+      "key_events": ["治理蜀汉", "被刺杀"],
+      "relations": ["诸葛亮", "刘禅"],
+      "description": "字文伟，蜀汉重臣，清廉能干，后遇害。"
+    },
+    {
+      "name": "蒋琬",
+      "style_name": "公琰",
+      "title": "大将军",
+      "faction": "蜀汉",
+      "birth_death": "？-246",
+      "key_events": ["继承诸葛亮", "治理蜀汉"],
+      "relations": ["诸葛亮", "刘禅"],
+      "description": "字公琰，蜀汉丞相，稳重持国，延续诸葛政策。"
+    },
+    {
+      "name": "邓芝",
+      "style_name": "伯苗",
+      "title": "车骑将军",
+      "faction": "蜀汉",
+      "birth_death": "？-251",
+      "key_events": ["出使东吴", "重修盟好"],
+      "relations": ["诸葛亮", "孙权"],
+      "description": "字伯苗，蜀汉官员，能言善辩，巩固吴蜀联盟。"
+    },
+    {
+      "name": "廖化",
+      "style_name": "元俭",
+      "title": "右车骑将军",
+      "faction": "蜀汉",
+      "birth_death": "？-264",
+      "key_events": ["千里走单骑", "随姜维北伐"],
+      "relations": ["关羽", "姜维"],
+      "description": "字元俭，蜀汉老将，忠诚勇猛，见证蜀汉兴衰。"
+    },
+    {
+      "name": "王平",
+      "style_name": "子均",
+      "title": "镇北大将军",
+      "faction": "蜀汉",
+      "birth_death": "？-248",
+      "key_events": ["街亭之战", "守汉中"],
+      "relations": ["诸葛亮", "马谡"],
+      "description": "字子均，蜀汉将领，谨慎稳重，屡立战功。"
+    },
+    {
+      "name": "张翼",
+      "style_name": "伯恭",
+      "title": "左车骑将军",
+      "faction": "蜀汉",
+      "birth_death": "？-264",
+      "key_events": ["随姜维北伐", "战死"],
+      "relations": ["姜维", "诸葛亮"],
+      "description": "字伯恭，蜀汉将领，忠诚可靠，后殉国。"
+    },
+    {
+      "name": "马岱",
+      "style_name": "无",
+      "title": "平北将军",
+      "faction": "蜀汉",
+      "birth_death": "？-？",
+      "key_events": ["斩魏延"],
+      "relations": ["马超", "诸葛亮"],
+      "description": "马超从弟，蜀汉将领，执行诸葛亮遗命杀魏延。"
+    },
+    {
+      "name": "关平",
+      "style_name": "无",
+      "title": "副将",
+      "faction": "蜀汉",
+      "birth_death": "？-220",
+      "key_events": ["随关羽征战", "麦城遇难"],
+      "relations": ["关羽"],
+      "description": "关羽义子，忠诚勇猛，与关羽一同被害。"
+    },
+    {
+      "name": "关兴",
+      "style_name": "安国",
+      "title": "龙骧将军",
+      "faction": "蜀汉",
+      "birth_death": "？-？",
+      "key_events": ["为父报仇", "随诸葛亮北伐"],
+      "relations": ["关羽", "诸葛亮"],
+      "description": "字安国，关羽次子，蜀汉将领，英年早逝。"
+    },
+    {
+      "name": "张苞",
+      "style_name": "无",
+      "title": "虎贲中郎将",
+      "faction": "蜀汉",
+      "birth_death": "？-？",
+      "key_events": ["随诸葛亮北伐"],
+      "relations": ["张飞", "诸葛亮"],
+      "description": "张飞长子，蜀汉将领，勇猛如父，早逝。"
+    },
+    {
+      "name": "曹丕",
+      "style_name": "子桓",
+      "title": "魏文帝",
+      "faction": "魏",
+      "birth_death": "187-226",
+      "key_events": ["篡汉称帝", "建立曹魏"],
+      "relations": ["曹操", "曹植", "甄氏"],
+      "description": "字子桓，曹操之子，魏国开国皇帝，文学家。"
+    },
+    {
+      "name": "曹植",
+      "style_name": "子建",
+      "title": "陈王",
+      "faction": "魏",
+      "birth_death": "192-232",
+      "key_events": ["七步成诗", "文才出众"],
+      "relations": ["曹操", "曹丕"],
+      "description": "字子建，曹操之子，著名文学家，才高八斗。"
+    },
+    {
+      "name": "曹彰",
+      "style_name": "子文",
+      "title": "任城王",
+      "faction": "魏",
+      "birth_death": "？-223",
+      "key_events": ["征讨乌桓"],
+      "relations": ["曹操", "曹丕"],
+      "description": "字子文，曹操之子，勇猛善战，绰号“黄须儿”。"
+    },
+    {
+      "name": "夏侯霸",
+      "style_name": "仲权",
+      "title": "车骑将军",
+      "faction": "魏/蜀汉",
+      "birth_death": "？-255",
+      "key_events": ["投奔蜀汉", "随姜维北伐"],
+      "relations": ["夏侯渊", "姜维"],
+      "description": "字仲权，夏侯渊之子，后降蜀，为姜维部将。"
+    },
+    {
+      "name": "文鸯",
+      "style_name": "次骞",
+      "title": "将军",
+      "faction": "魏",
+      "birth_death": "238-291",
+      "key_events": ["单骑退雄兵"],
+      "relations": ["文钦", "司马师"],
+      "description": "字次骞，魏国猛将，勇力绝伦，曾单骑退敌。"
+    },
+    {
+      "name": "诸葛瞻",
+      "style_name": "思远",
+      "title": "行都护",
+      "faction": "蜀汉",
+      "birth_death": "227-263",
+      "key_events": ["绵竹之战", "战死"],
+      "relations": ["诸葛亮", "刘禅"],
+      "description": "字思远，诸葛亮之子，蜀汉官员，忠烈战死。"
+    },
+    {
+      "name": "刘琮",
+      "style_name": "无",
+      "title": "荆州牧",
+      "faction": "荆州",
+      "birth_death": "？-？",
+      "key_events": ["投降曹操"],
+      "relations": ["刘表", "蔡夫人"],
+      "description": "刘表次子，继位荆州，后降曹。"
+    },
+    {
+      "name": "蔡夫人",
+      "style_name": "无",
+      "title": "无",
+      "faction": "荆州",
+      "birth_death": "？-？",
+      "key_events": ["陷害刘备"],
+      "relations": ["刘表", "蔡瑁"],
+      "description": "刘表之妻，蔡瑁之姐，排斥刘备。"
+    },
+    {
+      "name": "邹夫人",
+      "style_name": "无",
+      "title": "无",
+      "faction": "张绣部",
+      "birth_death": "？-？",
+      "key_events": ["被曹操霸占"],
+      "relations": ["张绣", "曹操"],
+      "description": "张济之妻，张绣婶母，曹操纳之引发叛乱。"
+    },
+    {
+      "name": "夏侯杰",
+      "style_name": "无",
+      "title": "部将",
+      "faction": "魏",
+      "birth_death": "？-208",
+      "key_events": ["被张飞吓死"],
+      "relations": ["曹操", "张飞"],
+      "description": "曹操部将，在长坂坡被张飞怒吼吓死。"
+    },
+    {
+      "name": "庞德",
+      "style_name": "令明",
+      "title": "立义将军",
+      "faction": "魏",
+      "birth_death": "？-219",
+      "key_events": ["抬榇战关羽", "被关羽所杀"],
+      "relations": ["曹操", "关羽"],
+      "description": "字令明，魏国将领，忠诚勇猛，宁死不降。"
+    },
+    {
+      "name": "于禁",
+      "style_name": "文则",
+      "title": "左将军",
+      "faction": "魏",
+      "birth_death": "？-221",
+      "key_events": ["水淹七军", "投降关羽"],
+      "relations": ["曹操", "关羽"],
+      "description": "字文则，魏国名将，晚年失节，羞愤而死。"
+    },
+    {
+      "name": "乐进",
+      "style_name": "文谦",
+      "title": "右将军",
+      "faction": "魏",
+      "birth_death": "？-218",
+      "key_events": ["随曹操征讨"],
+      "relations": ["曹操", "张辽"],
+      "description": "字文谦，魏国名将，勇猛果敢，屡立战功。"
+    },
+    {
+      "name": "李典",
+      "style_name": "曼成",
+      "title": "破虏将军",
+      "faction": "魏",
+      "birth_death": "？-215",
+      "key_events": ["合肥之战"],
+      "relations": ["曹操", "张辽"],
+      "description": "字曼成，魏国将领，儒雅谦逊，深明大义。"
+    },
+    {
+      "name": "韩当",
+      "style_name": "义公",
+      "title": "昭武将军",
+      "faction": "东吴",
+      "birth_death": "？-227",
+      "key_events": ["随孙策平定江东"],
+      "relations": ["孙策", "孙权"],
+      "description": "字义公，东吴老将，勇猛忠诚，三世元老。"
+    },
+    {
+      "name": "周泰",
+      "style_name": "幼平",
+      "title": "奋威将军",
+      "faction": "东吴",
+      "birth_death": "？-？",
+      "key_events": ["宣城救孙权", "身负重伤"],
+      "relations": ["孙权", "孙策"],
+      "description": "字幼平，东吴名将，勇猛护主，身披数创。"
+    },
+    {
+      "name": "陈武",
+      "style_name": "子烈",
+      "title": "偏将军",
+      "faction": "东吴",
+      "birth_death": "？-215",
+      "key_events": ["合肥战死"],
+      "relations": ["孙权"],
+      "description": "字子烈，东吴将领，忠诚勇猛，战死沙场。"
+    },
+    {
+      "name": "潘璋",
+      "style_name": "文珪",
+      "title": "太守",
+      "faction": "东吴",
+      "birth_death": "？-234",
+      "key_events": ["擒获关羽"],
+      "relations": ["孙权", "关羽"],
+      "description": "字文珪，东吴将领，擒杀关羽，后战死。"
+    },
+    {
+      "name": "丁奉",
+      "style_name": "承渊",
+      "title": "大将军",
+      "faction": "东吴",
+      "birth_death": "？-271",
+      "key_events": ["雪中奋短兵", "除孙綝"],
+      "relations": ["孙权", "孙亮"],
+      "description": "字承渊，东吴名将，智勇双全，历仕四朝。"
+    },
+    {
+      "name": "徐盛",
+      "style_name": "文向",
+      "title": "建武将军",
+      "faction": "东吴",
+      "birth_death": "？-227",
+      "key_events": ["疑城计", "抵御曹军"],
+      "relations": ["孙权", "周瑜"],
+      "description": "字文向，东吴将领，善于用兵，以疑计退敌。"
+    }
+  ],
+  "events": [
+    {
+      "name": "桃园三结义",
+      "time": "184年",
+      "location": "涿郡",
+      "participants": ["刘备", "关羽", "张飞"],
+      "description": "刘备、关羽、张飞在桃园结为异姓兄弟，共同立誓匡扶汉室。",
+      "outcome": "奠定了蜀汉政权的基础。"
+    },
+    {
+      "name": "官渡之战",
+      "time": "200年",
+      "location": "官渡",
+      "participants": ["曹操", "袁绍"],
+      "description": "曹操与袁绍在官渡展开战略决战，曹操以少胜多，烧毁袁绍粮草基地乌巢。",
+      "outcome": "曹操统一北方，奠定曹魏基础。"
+    },
+    {
+      "name": "赤壁之战",
+      "time": "208年",
+      "location": "赤壁",
+      "participants": ["曹操", "孙权", "刘备", "周瑜", "诸葛亮"],
+      "description": "孙刘联军在赤壁用火攻大败曹操水军，曹操败走华容道。",
+      "outcome": "形成三国鼎立之势，曹操统一计划受挫。"
+    },
+    {
+      "name": "夷陵之战",
+      "time": "221-222年",
+      "location": "猇亭",
+      "participants": ["刘备", "陆逊"],
+      "description": "刘备为报关羽之仇伐吴，陆逊用火攻火烧连营，大败刘备。",
+      "outcome": "蜀汉元气大伤，刘备病逝白帝城。"
+    },
+    {
+      "name": "水淹七军",
+      "time": "219年",
+      "location": "樊城",
+      "participants": ["关羽", "于禁", "庞德"],
+      "description": "关羽利用秋雨泛滥，水淹于禁、庞德七军，生擒二人。",
+      "outcome": "关羽威震华夏，但导致曹操联合孙权对付关羽。"
+    },
+    {
+      "name": "汉中争夺战",
+      "time": "215-219年",
+      "location": "汉中",
+      "participants": ["刘备", "曹操", "黄忠", "夏侯渊"],
+      "description": "刘备与曹操争夺汉中，黄忠在定军山斩夏侯渊，刘备取胜。",
+      "outcome": "刘备夺取汉中，进位汉中王。"
+    },
+    {
+      "name": "刮骨疗毒",
+      "time": "219年",
+      "location": "荆州",
+      "participants": ["关羽", "华佗"],
+      "description": "关羽右臂中箭毒，华佗为其刮骨疗毒，关羽谈笑自若。",
+      "outcome": "关羽伤势痊愈，展现其勇毅。"
+    },
+    {
+      "name": "煮酒论英雄",
+      "time": "199年",
+      "location": "许都",
+      "participants": ["曹操", "刘备"],
+      "description": "曹操与刘备煮酒论天下英雄，曹操指出刘备为英雄，刘备惊失箸。",
+      "outcome": "刘备掩饰惊慌，后逃离曹操控制。"
+    },
+    {
+      "name": "空城计",
+      "time": "228年",
+      "location": "西城县",
+      "participants": ["诸葛亮", "司马懿"],
+      "description": "诸葛亮因马谡失街亭，被迫在西城用空城计，弹琴吓退司马懿。",
+      "outcome": "诸葛亮安全撤退，司马懿疑心重而退兵。"
+    },
+    {
+      "name": "单刀赴会",
+      "time": "215年",
+      "location": "荆州",
+      "participants": ["关羽", "鲁肃"],
+      "description": "关羽单刀赴会，与鲁肃谈判荆州问题，展现勇武。",
+      "outcome": "关羽安全返回，东吴未能索回荆州。"
+    },
+    {
+      "name": "温酒斩华雄",
+      "time": "190年",
+      "location": "汜水关",
+      "participants": ["关羽", "华雄"],
+      "description": "关羽在温酒未冷之际，快速斩华雄于马下，震惊诸侯。",
+      "outcome": "关羽名声大振，为刘备集团立威。"
+    },
+    {
+      "name": "张飞大闹长坂桥",
+      "time": "208年",
+      "location": "长坂桥",
+      "participants": ["张飞", "曹操军队"],
+      "description": "张飞在长坂桥怒吼，吓退曹军，夏侯杰被吓死。",
+      "outcome": "张飞为刘备撤退赢得时间，展现其勇猛。"
+    },
+    {
+      "name": "刘备携民渡江",
+      "time": "208年",
+      "location": "荆州",
+      "participants": ["刘备", "荆州百姓"],
+      "description": "刘备撤退时携带荆州百姓同行，体现仁德之心。",
+      "outcome": "刘备赢得民心，但行军缓慢，被曹军追击。"
+    },
+    {
+      "name": "诸葛亮借东风",
+      "time": "208年",
+      "location": "南屏山",
+      "participants": ["诸葛亮", "周瑜"],
+      "description": "诸葛亮在南屏山筑坛借东风，助周瑜火攻曹军。",
+      "outcome": "赤壁之战火攻成功，曹军大败。"
+    },
+    {
+      "name": "七擒孟获",
+      "time": "225年",
+      "location": "南中",
+      "participants": ["诸葛亮", "孟获"],
+      "description": "诸葛亮七次擒获孟获，又七次释放，最终使孟获心服归顺。",
+      "outcome": "南中平定，蜀汉后方稳定。"
+    },
+    {
+      "name": "白帝城托孤",
+      "time": "223年",
+      "location": "白帝城",
+      "participants": ["刘备", "诸葛亮", "刘禅"],
+      "description": "刘备病逝前向诸葛亮托孤，希望其辅佐刘禅。",
+      "outcome": "诸葛亮忠心辅佐刘禅，延续蜀汉政权。"
+    },
+    {
+      "name": "三顾茅庐",
+      "time": "207年",
+      "location": "隆中",
+      "participants": ["刘备", "诸葛亮"],
+      "description": "刘备三次拜访诸葛亮，请其出山辅佐。",
+      "outcome": "诸葛亮献隆中对，出山助刘备建立蜀汉。"
+    },
+    {
+      "name": "草船借箭",
+      "time": "208年",
+      "location": "赤壁",
+      "participants": ["诸葛亮", "曹操军队"],
+      "description": "诸葛亮用草船诱使曹军射箭，借得十万支箭。",
+      "outcome": "诸葛亮完成周瑜任务，展现智谋。"
+    },
+    {
+      "name": "火烧博望坡",
+      "time": "207年",
+      "location": "博望坡",
+      "participants": ["诸葛亮", "夏侯惇"],
+      "description": "诸葛亮初出茅庐，用火攻大败夏侯惇。",
+      "outcome": "刘备军获胜，诸葛亮确立威信。"
+    },
+    {
+      "name": "火烧新野",
+      "time": "208年",
+      "location": "新野",
+      "participants": ["诸葛亮", "曹仁"],
+      "description": "诸葛亮用火攻烧新野，击退曹仁军队。",
+      "outcome": "刘备军安全撤退，曹军受损。"
+    },
+    {
+      "name": "赵云单骑救主",
+      "time": "208年",
+      "location": "长坂坡",
+      "participants": ["赵云", "阿斗", "曹军"],
+      "description": "赵云在长坂坡七进七出，救出刘备之子阿斗。",
+      "outcome": "阿斗安全返回，赵云展现忠诚勇猛。"
+    },
+    {
+      "name": "刘备摔阿斗",
+      "time": "208年",
+      "location": "长坂坡",
+      "participants": ["刘备", "赵云", "阿斗"],
+      "description": "刘备为抚慰赵云，将阿斗摔在地上，说“为汝这孺子，几损我一员大将”。",
+      "outcome": "赵云感激涕零，更加忠心。"
+    },
+    {
+      "name": "诸葛亮舌战群儒",
+      "time": "208年",
+      "location": "柴桑",
+      "participants": ["诸葛亮", "东吴谋士"],
+      "description": "诸葛亮在孙权府中与张昭等东吴谋士辩论，说服孙权联刘抗曹。",
+      "outcome": "孙权决定与刘备联合，共抗曹操。"
+    },
+    {
+      "name": "周瑜打黄盖",
+      "time": "208年",
+      "location": "赤壁",
+      "participants": ["周瑜", "黄盖"],
+      "description": "周瑜用苦肉计，打黄盖使其诈降曹操。",
+      "outcome": "黄盖诈降成功，为火攻赤壁创造条件。"
+    },
+    {
+      "name": "连环计",
+      "time": "208年",
+      "location": "赤壁",
+      "participants": ["庞统", "曹操"],
+      "description": "庞统献连环计，使曹操将战船连在一起。",
+      "outcome": "曹军战船被火攻时无法分散，损失惨重。"
+    },
+    {
+      "name": "曹操割须弃袍",
+      "time": "211年",
+      "location": "潼关",
+      "participants": ["曹操", "马超"],
+      "description": "曹操被马超追击，割须弃袍以逃脱。",
+      "outcome": "曹操侥幸逃脱，马超勇猛闻名。"
+    },
+    {
+      "name": "许褚裸衣斗马超",
+      "time": "211年",
+      "location": "潼关",
+      "participants": ["许褚", "马超"],
+      "description": "许褚与马超裸衣大战，不分胜负。",
+      "outcome": "双方平手，展现许褚勇猛。"
+    },
+    {
+      "name": "曹操抹书间韩遂",
+      "time": "211年",
+      "location": "潼关",
+      "participants": ["曹操", "马超", "韩遂"],
+      "description": "曹操用涂改书信离间马超和韩遂，使二人内斗。",
+      "outcome": "马超与韩遂反目，曹操击败马超。"
+    },
+    {
+      "name": "张松献图",
+      "time": "211年",
+      "location": "益州",
+      "participants": ["张松", "刘备"],
+      "description": "张松向刘备献西川地形图，助刘备取益州。",
+      "outcome": "刘备得以顺利入川，建立基业。"
+    },
+    {
+      "name": "吕布辕门射戟",
+      "time": "196年",
+      "location": "徐州",
+      "participants": ["吕布", "刘备", "纪灵"],
+      "description": "吕布在辕门射戟，调解刘备与纪灵的争斗。",
+      "outcome": "暂时平息战事，展现吕布武艺。"
+    },
+    {
+      "name": "典韦之死",
+      "time": "197年",
+      "location": "宛城",
+      "participants": ["典韦", "张绣军队"],
+      "description": "典韦为保护曹操，力战张绣军队而死。",
+      "outcome": "曹操逃脱，但失去爱将典韦。"
+    },
+    {
+      "name": "曹操割发代首",
+      "time": "197年",
+      "location": "宛城",
+      "participants": ["曹操"],
+      "description": "曹操因马踏麦田，割发代首以明军纪。",
+      "outcome": "曹操严明军纪，赢得士兵敬畏。"
+    },
+    {
+      "name": "夏侯惇拔矢啖睛",
+      "time": "198年",
+      "location": "徐州",
+      "participants": ["夏侯惇", "曹性"],
+      "description": "夏侯惇被曹性射中左眼，拔箭啖睛，继续作战。",
+      "outcome": "夏侯惇勇猛无比，曹性被杀死。"
+    },
+    {
+      "name": "白门楼吕布殒命",
+      "time": "199年",
+      "location": "下邳",
+      "participants": ["吕布", "曹操", "刘备"],
+      "description": "吕布被擒于白门楼，曹操听刘备言将其处死。",
+      "outcome": "吕布被杀，曹操除去大敌。"
+    },
+    {
+      "name": "祢衡击鼓骂曹",
+      "time": "198年",
+      "location": "许都",
+      "participants": ["祢衡", "曹操"],
+      "description": "祢衡击鼓骂曹操，曹操怒而将其送与刘表。",
+      "outcome": "祢衡狂傲被杀，曹操避免直接杀名士。"
+    },
+    {
+      "name": "关羽过五关斩六将",
+      "time": "200年",
+      "location": "曹操势力范围",
+      "participants": ["关羽", "曹操守将"],
+      "description": "关羽为寻刘备，过五关斩六将，展现忠义。",
+      "outcome": "关羽最终与刘备会合，曹操敬其义气。"
+    },
+    {
+      "name": "华容道义释曹操",
+      "time": "208年",
+      "location": "华容道",
+      "participants": ["关羽", "曹操"],
+      "description": "关羽在华容道放走曹操，报其昔日恩情。",
+      "outcome": "曹操逃脱，关羽义气深重。"
+    },
+    {
+      "name": "诸葛亮病死五丈原",
+      "time": "234年",
+      "location": "五丈原",
+      "participants": ["诸葛亮", "司马懿"],
+      "description": "诸葛亮北伐时病逝于五丈原，死前安排退军事宜。",
+      "outcome": "蜀汉北伐终止，诸葛亮鞠躬尽瘁。"
+    },
+    {
+      "name": "三国归晋",
+      "time": "280年",
+      "location": "建业、成都",
+      "participants": ["司马炎", "孙皓", "刘禅"],
+      "description": "晋灭吴，统一全国，三国时期结束。",
+      "outcome": "天下归晋，进入晋朝时期。"
+    }
+  ],
+  "locations": [
+    {
+      "name": "洛阳",
+      "type": "都城",
+      "faction": "曹魏",
+      "importance": "高"
+    },
+    {
+      "name": "长安",
+      "type": "都城",
+      "faction": "汉/曹魏",
+      "importance": "高"
+    },
+    {
+      "name": "成都",
+      "type": "都城",
+      "faction": "蜀汉",
+      "importance": "高"
+    },
+    {
+      "name": "建业",
+      "type": "都城",
+      "faction": "东吴",
+      "importance": "高"
+    },
+    {
+      "name": "许昌",
+      "type": "都城",
+      "faction": "曹魏",
+      "importance": "高"
+    },
+    {
+      "name": "荆州",
+      "type": "州",
+      "faction": "刘表/刘备/孙权",
+      "importance": "高"
+    },
+    {
+      "name": "益州",
+      "type": "州",
+      "faction": "刘璋/刘备",
+      "importance": "高"
+    },
+    {
+      "name": "徐州",
+      "type": "州",
+      "faction": "陶谦/刘备/吕布",
+      "importance": "中"
+    },
+    {
+      "name": "兖州",
+      "type": "州",
+      "faction": "曹操",
+      "importance": "中"
+    },
+    {
+      "name": "冀州",
+      "type": "州",
+      "faction": "袁绍",
+      "importance": "中"
+    },
+    {
+      "name": "扬州",
+      "type": "州",
+      "faction": "孙策/孙权",
+      "importance": "中"
+    },
+    {
+      "name": "凉州",
+      "type": "州",
+      "faction": "董卓/马超",
+      "importance": "中"
+    },
+    {
+      "name": "并州",
+      "type": "州",
+      "faction": "吕布",
+      "importance": "低"
+    },
+    {
+      "name": "青州",
+      "type": "州",
+      "faction": "曹操",
+      "importance": "低"
+    },
+    {
+      "name": "幽州",
+      "type": "州",
+      "faction": "公孙瓒",
+      "importance": "低"
+    },
+    {
+      "name": "交州",
+      "type": "州",
+      "faction": "士燮",
+      "importance": "低"
+    },
+    {
+      "name": "汉中",
+      "type": "郡",
+      "faction": "张鲁/刘备",
+      "importance": "中"
+    },
+    {
+      "name": "南阳",
+      "type": "郡",
+      "faction": "袁术",
+      "importance": "中"
+    },
+    {
+      "name": "汝南",
+      "type": "郡",
+      "faction": "刘备",
+      "importance": "低"
+    },
+    {
+      "name": "琅琊",
+      "type": "郡",
+      "faction": "曹操",
+      "importance": "低"
+    },
+    {
+      "name": "涿郡",
+      "type": "郡",
+      "faction": "刘备",
+      "importance": "中"
+    },
+    {
+      "name": "官渡",
+      "type": "战略要地",
+      "faction": "曹操/袁绍",
+      "importance": "高"
+    },
+    {
+      "name": "赤壁",
+      "type": "战略要地",
+      "faction": "孙刘联军/曹操",
+      "importance": "高"
+    },
+    {
+      "name": "猇亭",
+      "type": "战略要地",
+      "faction": "刘备/陆逊",
+      "importance": "中"
+    },
+    {
+      "name": "樊城",
+      "type": "城池",
+      "faction": "关羽/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "定军山",
+      "type": "战略要地",
+      "faction": "黄忠/夏侯渊",
+      "importance": "中"
+    },
+    {
+      "name": "五丈原",
+      "type": "战略要地",
+      "faction": "诸葛亮/司马懿",
+      "importance": "中"
+    },
+    {
+      "name": "长坂坡",
+      "type": "战略要地",
+      "faction": "赵云/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "麦城",
+      "type": "城池",
+      "faction": "关羽/吕蒙",
+      "importance": "中"
+    },
+    {
+      "name": "白帝城",
+      "type": "城池",
+      "faction": "刘备",
+      "importance": "中"
+    },
+    {
+      "name": "祁山",
+      "type": "战略要地",
+      "faction": "诸葛亮/司马懿",
+      "importance": "中"
+    },
+    {
+      "name": "濡须",
+      "type": "战略要地",
+      "faction": "孙权/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "街亭",
+      "type": "战略要地",
+      "faction": "马谡/张郃",
+      "importance": "中"
+    },
+    {
+      "name": "渭水",
+      "type": "河流",
+      "faction": "曹操/马超",
+      "importance": "中"
+    },
+    {
+      "name": "合肥",
+      "type": "城池",
+      "faction": "张辽/孙权",
+      "importance": "中"
+    },
+    {
+      "name": "下邳",
+      "type": "城池",
+      "faction": "吕布/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "宛城",
+      "type": "城池",
+      "faction": "张绣/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "新野",
+      "type": "城池",
+      "faction": "刘备",
+      "importance": "低"
+    },
+    {
+      "name": "博望坡",
+      "type": "战略要地",
+      "faction": "诸葛亮/夏侯惇",
+      "importance": "低"
+    },
+    {
+      "name": "柴桑",
+      "type": "城池",
+      "faction": "孙权",
+      "importance": "中"
+    },
+    {
+      "name": "巴丘",
+      "type": "战略要地",
+      "faction": "周瑜",
+      "importance": "低"
+    },
+    {
+      "name": "夷州",
+      "type": "岛屿",
+      "faction": "东吴",
+      "importance": "低"
+    },
+    {
+      "name": "亶州",
+      "type": "岛屿",
+      "faction": "东吴",
+      "importance": "低"
+    },
+    {
+      "name": "南中",
+      "type": "地区",
+      "faction": "孟获/诸葛亮",
+      "importance": "中"
+    },
+    {
+      "name": "西城县",
+      "type": "城池",
+      "faction": "诸葛亮/司马懿",
+      "importance": "低"
+    },
+    {
+      "name": "永安",
+      "type": "城池",
+      "faction": "刘备",
+      "importance": "中"
+    },
+    {
+      "name": "江陵",
+      "type": "城池",
+      "faction": "刘备/孙权",
+      "importance": "中"
+    },
+    {
+      "name": "襄阳",
+      "type": "城池",
+      "faction": "刘表/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "秭归",
+      "type": "城池",
+      "faction": "刘备",
+      "importance": "低"
+    },
+    {
+      "name": "临沮",
+      "type": "城池",
+      "faction": "关羽/潘璋",
+      "importance": "低"
+    },
+    {
+      "name": "绵竹",
+      "type": "城池",
+      "faction": "诸葛瞻/邓艾",
+      "importance": "中"
+    },
+    {
+      "name": "剑阁",
+      "type": "关隘",
+      "faction": "姜维/钟会",
+      "importance": "中"
+    },
+    {
+      "name": "阴平",
+      "type": "关隘",
+      "faction": "邓艾",
+      "importance": "中"
+    },
+    {
+      "name": "上庸",
+      "type": "城池",
+      "faction": "刘封/孟达",
+      "importance": "低"
+    },
+    {
+      "name": "房陵",
+      "type": "城池",
+      "faction": "刘封/孟达",
+      "importance": "低"
+    },
+    {
+      "name": "西城",
+      "type": "城池",
+      "faction": "刘封/孟达",
+      "importance": "低"
+    },
+    {
+      "name": "公安",
+      "type": "城池",
+      "faction": "刘备",
+      "importance": "低"
+    },
+    {
+      "name": "夏口",
+      "type": "城池",
+      "faction": "刘备/孙权",
+      "importance": "中"
+    },
+    {
+      "name": "巴郡",
+      "type": "郡",
+      "faction": "严颜/张飞",
+      "importance": "低"
+    },
+    {
+      "name": "天水",
+      "type": "郡",
+      "faction": "姜维/诸葛亮",
+      "importance": "中"
+    },
+    {
+      "name": "南安",
+      "type": "郡",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "安定",
+      "type": "郡",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "陈仓",
+      "type": "城池",
+      "faction": "郝昭/诸葛亮",
+      "importance": "中"
+    },
+    {
+      "name": "散关",
+      "type": "关隘",
+      "faction": "曹操/刘备",
+      "importance": "低"
+    },
+    {
+      "name": "阳平关",
+      "type": "关隘",
+      "faction": "张鲁/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "潼关",
+      "type": "关隘",
+      "faction": "马超/曹操",
+      "importance": "高"
+    },
+    {
+      "name": "函谷关",
+      "type": "关隘",
+      "faction": "曹操",
+      "importance": "中"
+    },
+    {
+      "name": "虎牢关",
+      "type": "关隘",
+      "faction": "吕布/联军",
+      "importance": "高"
+    },
+    {
+      "name": "汜水关",
+      "type": "关隘",
+      "faction": "华雄/关羽",
+      "importance": "中"
+    },
+    {
+      "name": "荥阳",
+      "type": "城池",
+      "faction": "曹操",
+      "importance": "低"
+    },
+    {
+      "name": "黄河渡口",
+      "type": "渡口",
+      "faction": "关羽/曹操",
+      "importance": "低"
+    },
+    {
+      "name": "檀溪",
+      "type": "河流",
+      "faction": "刘备",
+      "importance": "低"
+    },
+    {
+      "name": "汉水",
+      "type": "河流",
+      "faction": "赵云/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "襄江",
+      "type": "河流",
+      "faction": "关羽/于禁",
+      "importance": "中"
+    },
+    {
+      "name": "乌巢",
+      "type": "粮草基地",
+      "faction": "袁绍/曹操",
+      "importance": "高"
+    },
+    {
+      "name": "华容道",
+      "type": "道路",
+      "faction": "曹操/关羽",
+      "importance": "中"
+    },
+    {
+      "name": "鱼腹浦",
+      "type": "战略要地",
+      "faction": "诸葛亮/陆逊",
+      "importance": "低"
+    },
+    {
+      "name": "盘蛇谷",
+      "type": "山谷",
+      "faction": "诸葛亮/藤甲兵",
+      "importance": "低"
+    },
+    {
+      "name": "落凤坡",
+      "type": "战略要地",
+      "faction": "庞统/张任",
+      "importance": "中"
+    },
+    {
+      "name": "绵竹关",
+      "type": "关隘",
+      "faction": "诸葛瞻/邓艾",
+      "importance": "中"
+    },
+    {
+      "name": "雒城",
+      "type": "城池",
+      "faction": "刘璋/刘备",
+      "importance": "中"
+    },
+    {
+      "name": "葭萌关",
+      "type": "关隘",
+      "faction": "张飞/马超",
+      "importance": "中"
+    },
+    {
+      "name": "瓦口关",
+      "type": "关隘",
+      "faction": "张飞/张郃",
+      "importance": "低"
+    },
+    {
+      "name": "天荡山",
+      "type": "山脉",
+      "faction": "黄忠/夏侯尚",
+      "importance": "低"
+    },
+    {
+      "name": "米仓山",
+      "type": "山脉",
+      "faction": "曹操/刘备",
+      "importance": "低"
+    },
+    {
+      "name": "街亭",
+      "type": "战略要地",
+      "faction": "马谡/张郃",
+      "importance": "高"
+    },
+    {
+      "name": "柳城",
+      "type": "城池",
+      "faction": "曹操/乌桓",
+      "importance": "低"
+    },
+    {
+      "name": "易京",
+      "type": "城池",
+      "faction": "公孙瓒/袁绍",
+      "importance": "低"
+    },
+    {
+      "name": "邺城",
+      "type": "城池",
+      "faction": "袁绍/曹操",
+      "importance": "高"
+    },
+    {
+      "name": "黎阳",
+      "type": "城池",
+      "faction": "袁绍/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "延津",
+      "type": "渡口",
+      "faction": "曹操/袁绍",
+      "importance": "中"
+    },
+    {
+      "name": "白马",
+      "type": "城池",
+      "faction": "颜良/关羽",
+      "importance": "中"
+    },
+    {
+      "name": "汝阳",
+      "type": "城池",
+      "faction": "袁术",
+      "importance": "低"
+    },
+    {
+      "name": "寿春",
+      "type": "城池",
+      "faction": "袁术/曹操",
+      "importance": "中"
+    },
+    {
+      "name": "小沛",
+      "type": "城池",
+      "faction": "刘备/吕布",
+      "importance": "中"
+    },
+    {
+      "name": "盱眙",
+      "type": "城池",
+      "faction": "刘备/袁术",
+      "importance": "低"
+    },
+    {
+      "name": "淮阴",
+      "type": "城池",
+      "faction": "刘备/袁术",
+      "importance": "低"
+    },
+    {
+      "name": "广陵",
+      "type": "郡",
+      "faction": "陈登/孙权",
+      "importance": "低"
+    },
+    {
+      "name": "曲阿",
+      "type": "城池",
+      "faction": "孙策/刘繇",
+      "importance": "中"
+    },
+    {
+      "name": "吴郡",
+      "type": "郡",
+      "faction": "孙策/孙权",
+      "importance": "中"
+    },
+    {
+      "name": "会稽",
+      "type": "郡",
+      "faction": "王朗/孙策",
+      "importance": "中"
+    },
+    {
+      "name": "豫章",
+      "type": "郡",
+      "faction": "华歆/孙策",
+      "importance": "低"
+    },
+    {
+      "name": "庐江",
+      "type": "郡",
+      "faction": "刘勋/孙策",
+      "importance": "低"
+    },
+    {
+      "name": "鄱阳",
+      "type": "郡",
+      "faction": "孙权",
+      "importance": "低"
+    },
+    {
+      "name": "江夏",
+      "type": "郡",
+      "faction": "黄祖/孙权",
+      "importance": "中"
+    },
+    {
+      "name": "长沙",
+      "type": "郡",
+      "faction": "韩玄/刘备",
+      "importance": "中"
+    },
+    {
+      "name": "桂阳",
+      "type": "郡",
+      "faction": "赵范/刘备",
+      "importance": "低"
+    },
+    {
+      "name": "零陵",
+      "type": "郡",
+      "faction": "刘度/刘备",
+      "importance": "低"
+    },
+    {
+      "name": "武陵",
+      "type": "郡",
+      "faction": "金旋/刘备",
+      "importance": "低"
+    },
+    {
+      "name": "南郡",
+      "type": "郡",
+      "faction": "周瑜/刘备",
+      "importance": "中"
+    },
+    {
+      "name": "宜都",
+      "type": "郡",
+      "faction": "刘备/陆逊",
+      "importance": "低"
+    },
+    {
+      "name": "建平",
+      "type": "郡",
+      "faction": "刘备/陆逊",
+      "importance": "低"
+    },
+    {
+      "name": "巫县",
+      "type": "城池",
+      "faction": "刘备/陆逊",
+      "importance": "低"
+    },
+    {
+      "name": "秭归",
+      "type": "城池",
+      "faction": "刘备/陆逊",
+      "importance": "低"
+    },
+    {
+      "name": "夷道",
+      "type": "城池",
+      "faction": "刘备/陆逊",
+      "importance": "低"
+    },
+    {
+      "name": "涪城",
+      "type": "城池",
+      "faction": "刘璋/刘备",
+      "importance": "中"
+    },
+    {
+      "name": "绵竹",
+      "type": "城池",
+      "faction": "刘璋/刘备",
+      "importance": "中"
+    },
+    {
+      "name": "雒县",
+      "type": "城池",
+      "faction": "刘璋/刘备",
+      "importance": "中"
+    },
+    {
+      "name": "巴西",
+      "type": "郡",
+      "faction": "张飞/张郃",
+      "importance": "低"
+    },
+    {
+      "name": "巴东",
+      "type": "郡",
+      "faction": "刘备",
+      "importance": "低"
+    },
+    {
+      "name": "涪陵",
+      "type": "郡",
+      "faction": "刘备",
+      "importance": "低"
+    },
+    {
+      "name": "江州",
+      "type": "城池",
+      "faction": "严颜/张飞",
+      "importance": "中"
+    },
+    {
+      "name": "阆中",
+      "type": "城池",
+      "faction": "张飞",
+      "importance": "低"
+    },
+    {
+      "name": "葭萌",
+      "type": "城池",
+      "faction": "霍峻/刘备",
+      "importance": "低"
+    },
+    {
+      "name": "白水",
+      "type": "关隘",
+      "faction": "杨怀/高沛",
+      "importance": "低"
+    },
+    {
+      "name": "萌霞关",
+      "type": "关隘",
+      "faction": "刘备/刘璋",
+      "importance": "低"
+    },
+    {
+      "name": "洛城",
+      "type": "城池",
+      "faction": "刘备/刘璋",
+      "importance": "低"
+    },
+    {
+      "name": "绵竹关",
+      "type": "关隘",
+      "faction": "李严/刘备",
+      "importance": "低"
+    },
+    {
+      "name": "越嶲",
+      "type": "郡",
+      "faction": "高定/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "牂牁",
+      "type": "郡",
+      "faction": "朱褒/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "建宁",
+      "type": "郡",
+      "faction": "雍闿/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "永昌",
+      "type": "郡",
+      "faction": "王伉/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "云南",
+      "type": "郡",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "兴古",
+      "type": "郡",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "朱提",
+      "type": "郡",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "越嶲",
+      "type": "郡",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "邛都",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "叶榆",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "邪龙",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "云南",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "弄栋",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "青蛉",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "姑复",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "遂久",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "蜻蛉",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "楪榆",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "比苏",
+      "type": "城池",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "哀牢",
+      "type": "地区",
+      "faction": "诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "永昌",
+      "type": "郡",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "不韦",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "嶲唐",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "博南",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "南涪",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "邪龙",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "云南",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "弄栋",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "青蛉",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "姑复",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "遂久",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "蜻蛉",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "楪榆",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    },
+    {
+      "name": "比苏",
+      "type": "城池",
+      "faction": "吕凯/诸葛亮",
+      "importance": "低"
+    }
+  ],
+  "battles": [
+    {
+      "name": "官渡之战",
+      "time": "200年",
+      "双方": ["曹操", "袁绍"],
+      "结果": "曹操胜利",
+      "影响": "曹操统一北方，奠定曹魏基础"
+    },
+    {
+      "name": "赤壁之战",
+      "time": "208年",
+      "双方": ["曹操", "孙刘联军"],
+      "结果": "孙刘联军胜利",
+      "影响": "奠定三国鼎立基础"
+    },
+    {
+      "name": "夷陵之战",
+      "time": "221-222年",
+      "双方": ["刘备", "陆逊"],
+      "结果": "东吴胜利",
+      "影响": "蜀汉元气大伤，刘备病逝"
+    },
+    {
+      "name": "合肥之战",
+      "time": "215年",
+      "双方": ["张辽", "孙权"],
+      "结果": "魏国胜利",
+      "影响": "张辽威震逍遥津，东吴北进受挫"
+    },
+    {
+      "name": "渭水之战",
+      "time": "211年",
+      "双方": ["曹操", "马超"],
+      "结果": "曹操胜利",
+      "影响": "马超败走，曹操平定关中"
+    },
+    {
+      "name": "街亭之战",
+      "time": "228年",
+      "双方": ["马谡", "张郃"],
+      "结果": "魏国胜利",
+      "影响": "诸葛亮北伐失败，斩马谡"
+    },
+    {
+      "name": "汉中之战",
+      "time": "215-219年",
+      "双方": ["刘备", "曹操"],
+      "结果": "刘备胜利",
+      "影响": "刘备夺取汉中，进位汉中王"
+    },
+    {
+      "name": "荆州之战",
+      "time": "219年",
+      "双方": ["关羽", "吕蒙"],
+      "结果": "东吴胜利",
+      "影响": "关羽被杀，蜀汉失去荆州"
+    },
+    {
+      "name": "濡须之战",
+      "time": "213-217年",
+      "双方": ["曹操", "孙权"],
+      "结果": "相持不下",
+      "影响": "曹操与孙权在江淮地区对峙"
+    },
+    {
+      "name": "祁山之战",
+      "time": "228-234年",
+      "双方": ["诸葛亮", "司马懿"],
+      "结果": "相持不下",
+      "影响": "诸葛亮多次北伐，未取得决定性胜利"
+    },
+    {
+      "name": "长坂坡之战",
+      "time": "208年",
+      "双方": ["赵云", "曹军"],
+      "结果": "蜀汉撤退",
+      "影响": "赵云救出阿斗，刘备安全转移"
+    },
+    {
+      "name": "水淹七军",
+      "time": "219年",
+      "双方": ["关羽", "于禁"],
+      "结果": "关羽胜利",
+      "影响": "关羽威震华夏，但导致曹操联合孙权"
+    },
+    {
+      "name": "定军山之战",
+      "time": "219年",
+      "双方": ["黄忠", "夏侯渊"],
+      "结果": "蜀汉胜利",
+      "影响": "黄忠斩夏侯渊，刘备夺取汉中"
+    },
+    {
+      "name": "五丈原之战",
+      "time": "234年",
+      "双方": ["诸葛亮", "司马懿"],
+      "结果": "诸葛亮病逝",
+      "影响": "蜀汉北伐终止，诸葛亮鞠躬尽瘁"
+    },
+    {
+      "name": "合肥新城之战",
+      "time": "233年",
+      "双方": ["满宠", "孙权"],
+      "结果": "魏国胜利",
+      "影响": "孙权退兵，东吴北进失败"
+    },
+    {
+      "name": "石亭之战",
+      "time": "228年",
+      "双方": ["陆逊", "曹休"],
+      "结果": "东吴胜利",
+      "影响": "曹休大败，魏国东南防线受挫"
+    },
+    {
+      "name": "东兴之战",
+      "time": "252年",
+      "双方": ["诸葛恪", "司马昭"],
+      "结果": "东吴胜利",
+      "影响": "诸葛恪声望达到顶峰，但后来兵败"
+    },
+    {
+      "name": "寿春之战",
+      "time": "257-258年",
+      "双方": ["司马昭", "诸葛诞"],
+      "结果": "魏国胜利",
+      "影响": "诸葛诞被杀，司马氏彻底掌握曹魏"
+    },
+    {
+      "name": "绵竹之战",
+      "time": "263年",
+      "双方": ["诸葛瞻", "邓艾"],
+      "结果": "魏国胜利",
+      "影响": "诸葛瞻战死，刘禅投降"
+    },
+    {
+      "name": "剑阁之战",
+      "time": "263年",
+      "双方": ["姜维", "钟会"],
+      "结果": "相持不下",
+      "影响": "姜维坚守剑阁，但邓艾奇袭成都"
+    },
+    {
+      "name": "阴平之战",
+      "time": "263年",
+      "双方": ["邓艾", "蜀军"],
+      "结果": "魏国胜利",
+      "影响": "邓艾偷渡阴平，直取成都"
+    },
+    {
+      "name": "西陵之战",
+      "time": "272年",
+      "双方": ["陆抗", "步阐"],
+      "结果": "东吴胜利",
+      "影响": "陆抗平定叛乱，稳固东吴西部"
+    },
+    {
+      "name": "合肥之战（第二次）",
+      "time": "234年",
+      "双方": ["满宠", "孙权"],
+      "结果": "魏国胜利",
+      "影响": "孙权退兵，东吴北进再次失败"
+    },
+    {
+      "name": "濡须之战（第二次）",
+      "time": "222年",
+      "双方": ["曹仁", "朱桓"],
+      "结果": "东吴胜利",
+      "影响": "朱桓以少胜多，曹仁败退"
+    },
+    {
+      "name": "江陵之战",
+      "time": "223年",
+      "双方": ["曹真", "朱然"],
+      "结果": "东吴胜利",
+      "影响": "朱然坚守江陵，魏军退兵"
+    },
+    {
+      "name": "祁山之战（第一次）",
+      "time": "228年",
+      "双方": ["诸葛亮", "曹真"],
+      "结果": "蜀汉胜利",
+      "影响": "诸葛亮夺取三郡，但街亭失守后撤退"
+    },
+    {
+      "name": "祁山之战（第二次）",
+      "time": "231年",
+      "双方": ["诸葛亮", "司马懿"],
+      "结果": "蜀汉胜利",
+      "影响": "诸葛亮击败司马懿，但粮尽退兵"
+    },
+    {
+      "name": "祁山之战（第三次）",
+      "time": "234年",
+      "双方": ["诸葛亮", "司马懿"],
+      "结果": "相持不下",
+      "影响": "诸葛亮病逝五丈原，蜀汉退兵"
+    },
+    {
+      "name": "上方谷之战",
+      "time": "234年",
+      "双方": ["诸葛亮", "司马懿"],
+      "结果": "魏国胜利",
+      "影响": "司马懿险些被烧死，但天降大雨逃脱"
+    },
+    {
+      "name": "木门道之战",
+      "time": "231年",
+      "双方": ["诸葛亮", "张郃"],
+      "结果": "蜀汉胜利",
+      "影响": "张郃中伏身亡，魏国损失大将"
+    },
+    {
+      "name": "卤城之战",
+      "time": "231年",
+      "双方": ["诸葛亮", "司马懿"],
+      "结果": "蜀汉胜利",
+      "影响": "诸葛亮击败司马懿，获甲首三千"
+    },
+    {
+      "name": "建威之战",
+      "time": "229年",
+      "双方": ["诸葛亮", "郭淮"],
+      "结果": "蜀汉胜利",
+      "影响": "诸葛亮夺取武都、阴平二郡"
+    },
+    {
+      "name": "阳溪之战",
+      "time": "230年",
+      "双方": ["魏延", "郭淮"],
+      "结果": "蜀汉胜利",
+      "影响": "魏延大破郭淮，获得战利品"
+    },
+    {
+      "name": "兴势之战",
+      "time": "244年",
+      "双方": ["王平", "曹爽"],
+      "结果": "蜀汉胜利",
+      "影响": "王平以少胜多，曹爽退兵"
+    },
+    {
+      "name": "曲城之战",
+      "time": "249年",
+      "双方": ["姜维", "郭淮"],
+      "结果": "蜀汉胜利",
+      "影响": "姜维击败郭淮，但未能扩大战果"
+    },
+    {
+      "name": "段谷之战",
+      "time": "256年",
+      "双方": ["姜维", "邓艾"],
+      "结果": "魏国胜利",
+      "影响": "姜维大败，蜀汉元气大伤"
+    },
+    {
+      "name": "侯和之战",
+      "time": "262年",
+      "双方": ["姜维", "邓艾"],
+      "结果": "魏国胜利",
+      "影响": "姜维败退，蜀汉防御削弱"
+    },
+    {
+      "name": "沓中之战",
+      "time": "263年",
+      "双方": ["姜维", "邓艾"],
+      "结果": "魏国胜利",
+      "影响": "姜维被邓艾牵制，钟会攻入汉中"
+    },
+    {
+      "name": "乐嘉之战",
+      "time": "255年",
+      "双方": ["司马师", "文钦"],
+      "结果": "魏国胜利",
+      "影响": "文钦败逃，毌丘俭被杀"
+    },
+    {
+      "name": "寿春之战（第一次）",
+      "time": "255年",
+      "双方": ["司马师", "毌丘俭"],
+      "结果": "魏国胜利",
+      "影响": "毌丘俭兵败身亡，司马氏巩固权力"
+    },
+    {
+      "name": "东关之战",
+      "time": "252年",
+      "双方": ["诸葛恪", "司马昭"],
+      "结果": "东吴胜利",
+      "影响": "诸葛恪筑堤阻水，大败魏军"
+    },
+    {
+      "name": "新城之战",
+      "time": "253年",
+      "双方": ["诸葛恪", "张特"],
+      "结果": "魏国胜利",
+      "影响": "诸葛恪围攻新城不下，兵败退兵"
+    },
+    {
+      "name": "江陵之战（第二次）",
+      "time": "250年",
+      "双方": ["朱然", "王昶"],
+      "结果": "东吴胜利",
+      "影响": "朱然击退王昶，稳固江陵"
+    },
+    {
+      "name": "西陵之战（第一次）",
+      "time": "272年",
+      "双方": ["陆抗", "步阐"],
+      "结果": "东吴胜利",
+      "影响": "陆抗平定步阐叛乱，斩杀晋将"
+    },
+    {
+      "name": "皖城之战",
+      "time": "214年",
+      "双方": ["孙权", "朱光"],
+      "结果": "东吴胜利",
+      "影响": "孙权攻破皖城，俘获朱光"
+    },
+    {
+      "name": "逍遥津之战",
+      "time": "215年",
+      "双方": ["张辽", "孙权"],
+      "结果": "魏国胜利",
+      "影响": "张辽以少胜多，孙权险些被擒"
+    },
+    {
+      "name": "濡须坞之战",
+      "time": "213年",
+      "双方": ["曹操", "孙权"],
+      "结果": "相持不下",
+      "影响": "曹操感叹“生子当如孙仲谋”"
+    },
+    {
+      "name": "赤壁之战（前哨战）",
+      "time": "208年",
+      "双方": ["周瑜", "曹操"],
+      "结果": "东吴胜利",
+      "影响": "周瑜初战告捷，鼓舞士气"
+    },
+    {
+      "name": "乌林之战",
+      "time": "208年",
+      "双方": ["周瑜", "曹操"],
+      "结果": "东吴胜利",
+      "影响": "周瑜火攻乌林，曹军大败"
+    },
+    {
+      "name": "华容道之战",
+      "time": "208年",
+      "双方": ["关羽", "曹操"],
+      "结果": "曹操逃脱",
+      "影响": "关羽义释曹操，报恩"
+    },
+    {
+      "name": "南郡之战",
+      "time": "209年",
+      "双方": ["周瑜", "曹仁"],
+      "结果": "东吴胜利",
+      "影响": "周瑜夺取南郡，但身受重伤"
+    },
+    {
+      "name": "荆州争夺战",
+      "time": "210年",
+      "双方": ["刘备", "孙权"],
+      "结果": "刘备胜利",
+      "影响": "刘备“借”荆州，孙刘联盟出现裂痕"
+    },
+    {
+      "name": "零陵之战",
+      "time": "209年",
+      "双方": ["刘备", "刘度"],
+      "结果": "刘备胜利",
+      "影响": "刘备夺取零陵郡"
+    },
+    {
+      "name": "桂阳之战",
+      "time": "209年",
+      "双方": ["赵云", "赵范"],
+      "结果": "刘备胜利",
+      "影响": "赵云夺取桂阳郡"
+    },
+    {
+      "name": "武陵之战",
+      "time": "209年",
+      "双方": ["张飞", "金旋"],
+      "结果": "刘备胜利",
+      "影响": "张飞夺取武陵郡"
+    },
+    {
+      "name": "长沙之战",
+      "time": "209年",
+      "双方": ["关羽", "黄忠"],
+      "结果": "刘备胜利",
+      "影响": "关羽夺取长沙郡，黄忠归降"
+    },
+    {
+      "name": "益州之战",
+      "time": "214年",
+      "双方": ["刘备", "刘璋"],
+      "结果": "刘备胜利",
+      "影响": "刘备夺取益州，建立基业"
+    },
+    {
+      "name": "葭萌关之战",
+      "time": "214年",
+      "双方": ["张飞", "马超"],
+      "结果": "平手",
+      "影响": "马超归降刘备"
+    },
+    {
+      "name": "汉水之战",
+      "time": "219年",
+      "双方": ["赵云", "曹操"],
+      "结果": "蜀汉胜利",
+      "影响": "赵云以空营计吓退曹军"
+    },
+    {
+      "name": "麦城之战",
+      "time": "219年",
+      "双方": ["关羽", "潘璋"],
+      "结果": "东吴胜利",
+      "影响": "关羽被擒杀"
+    },
+    {
+      "name": "夷陵之战（前哨战）",
+      "time": "221年",
+      "双方": ["吴班", "陆逊"],
+      "结果": "东吴胜利",
+      "影响": "陆逊诱敌深入，为火攻做准备"
+    },
+    {
+      "name": "猇亭之战",
+      "time": "222年",
+      "双方": ["刘备", "陆逊"],
+      "结果": "东吴胜利",
+      "影响": "陆逊火烧连营，刘备大败"
+    },
+    {
+      "name": "白帝城之战",
+      "time": "222年",
+      "双方": ["刘备", "陆逊"],
+      "结果": "相持不下",
+      "影响": "陆逊退兵，刘备病逝白帝城"
+    }
+  ] ,
+  "metadata": {
+    "total_characters": 84,
+    "total_events": 39,
+    "collection_time": "2025-11-19 10:39:30"
+  }
+}
