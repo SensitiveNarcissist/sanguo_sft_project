@@ -21,21 +21,37 @@
 ## 项目结构
 
 sanguo_sft_project/
+
 ├── src/ # 主要源代码
+
 │ ├── train_sft_stable.py # 稳定训练脚本
+
 │ ├── data_augmentation.py # 数据增强脚本
+
 │ └── evaluation.py # 评估脚本
+
 ├── scripts/ # 辅助脚本
+
 │ └── run.sh # 一键运行脚本
+
 ├── config/ # 配置文件
+
 │ └── training_config.yaml # 训练配置
+
 ├── data/ # 数据目录
+
 │ ├── raw/ # 原始数据
+
 │ └── processed/ # 处理后的数据
+
 ├── models/ # 模型目录
+
 │ └── trained/ # 训练好的模型
+
 ├── results/ # 结果输出
+
 ├── requirements.txt # 依赖包列表
+
 └── README.md # 项目说明
 
 
