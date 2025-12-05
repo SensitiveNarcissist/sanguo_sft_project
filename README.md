@@ -11,7 +11,7 @@
 ## 主要特点
 
 - 🎯 **针对性强**：专门针对《三国演义》知识问答优化
-- 📊 **高质量数据**：构建了8000+条多样化问答对
+- 📊 **高质量数据**：构建了900+条多样化问答对
 - 🏗️ **高效微调**：使用LoRA技术，适应8GB显存显卡
 - 📈 **性能提升**：相比基础模型，准确率提升40%+
 - 🔧 **易于使用**：提供完整训练、评估和推理流程
@@ -60,7 +60,7 @@ sanguo_sft_project/
 
 - Python 3.8+
 - CUDA 11.8+ (用于GPU训练)
-- 至少8GB GPU显存 (推荐NVIDIA RTX 5070或更高)
+- 至少8GB GPU显存 (推荐NVIDIA RTX 4060或更高)
 
 
 
@@ -174,7 +174,7 @@ response = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 ### Q: 训练需要多长时间？
 
-A: 在RTX 5070 8GB显卡上，训练5轮约需2-3小时。
+A: 在RTX 5060 8GB显卡上，训练5轮约需2-3小时。
 
 ### Q: 需要多少显存？
 
@@ -198,7 +198,7 @@ A: 可以，修改数据生成逻辑即可应用于其他领域。
 @software{sanguo_sft_project,
   title = {三国演义知识问答SFT微调项目},
   author = {Your Name},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/yourusername/sanguo_sft_project}
 }
 ```
